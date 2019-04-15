@@ -67,4 +67,4 @@ elif Storage[1]==0:
 	f.write("Recommended Value is 100 Actual Value is "+str(Storage[0])+"\n" )
 logger.info('Status from Fun_GetFreeDisk is %s',Storage)
 f.close()
-# print Storage
+ print Storage
