@@ -104,15 +104,3 @@
 2019-04-15 15:56:42,772 Calling Function Fun_GetFreeDisk
 2019-04-15 15:56:42,773 Status from Fun_GetFreeDisk is [234.0, 0]
 2019-04-15 15:56:42,773 Storage
-2019-04-15 16:15:20,240 --------Starting-------
-2019-04-15 16:15:20,240 Log Level set to 1
-2019-04-15 16:15:20,240 Calling Function Fun_Get_CPU_Count
-2019-04-15 16:15:20,240 Input Arguments are 3 C:\Users\roopali.p\Desktop\Scripts\Moogsoft_PreRequisites\Log\zabbix_prereq.log
-2019-04-15 16:15:20,240 Exiting Fun_Get_CPU_Count with True value
-2019-04-15 16:15:20,240 Status from Fun_Get_CPU_Count is [True, 4, 3]
-2019-04-15 16:15:20,240 Calling Function Fun_Get_Memory
-2019-04-15 16:15:20,240 Input Arguments are 8 C:\Users\roopali.p\Desktop\Scripts\Moogsoft_PreRequisites\Log\zabbix_prereq.log
-2019-04-15 16:15:20,240 Exiting Fun_get_memory with True value
-2019-04-15 16:15:20,240 Status from Fun_Get_Memory is [True, 8.0, 8]
-2019-04-15 16:15:20,240 Calling Function Fun_GetFreeDisk
-2019-04-15 16:15:20,243 Status from Fun_GetFreeDisk is [234.0, 0]

@@ -66,5 +66,4 @@ elif Storage[1]==0:
 	f.write('Check_Disk_Space: Pass ')
 	f.write("Recommended Value is 100 Actual Value is "+str(Storage[0])+"\n" )
 logger.info('Status from Fun_GetFreeDisk is %s',Storage)
-logger.info('Status from Fun_GetFreeDisk is %s',Storage)
 f.close()
